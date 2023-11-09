@@ -4,7 +4,7 @@ Metadata:
   'AWS::CloudFormation::Designer': {}
 Parameters:
   Region:
-    Description: Region where the main scheduler stack is run
+    Description: Region where the main scheduler  stack is run
     Type: String
     Default: "us-east-1"
   StackName:
